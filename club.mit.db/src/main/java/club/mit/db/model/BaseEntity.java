@@ -1,4 +1,4 @@
-package club.mit.db.module;
+package club.mit.db.model;
 
 import java.util.Date;
 

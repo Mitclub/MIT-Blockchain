@@ -1,4 +1,4 @@
-package club.mit.p2p.module;
+package club.mit.p2p.model;
 
 /**
  * @author mit.club
