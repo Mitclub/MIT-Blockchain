@@ -108,7 +108,7 @@ public final class Log {
 	}
 
 	/**
-	 * 获取程序的执行记录
+	 * 获取程序的执行跟踪
 	 */
 	private static String getLogTrace() {
 		StringBuilder logTrace = new StringBuilder();
