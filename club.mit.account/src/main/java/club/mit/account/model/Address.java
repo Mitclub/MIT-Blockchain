@@ -1,7 +1,7 @@
 package club.mit.account.model;
 
 public class Address {
-	private String addressType;
+	private Addresstype addressType;
 	private String address;
 
 	@Override
@@ -9,11 +9,11 @@ public class Address {
 		return "Address [addressType=" + addressType + ", address=" + address + "]";
 	}
 
-	public String getAddressType() {
+	public Addresstype getAddressType() {
 		return addressType;
 	}
 
-	public void setAddressType(String addressType) {
+	public void setAddressType(Addresstype addressType) {
 		this.addressType = addressType;
 	}
 
